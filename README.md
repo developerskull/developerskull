@@ -1,161 +1,168 @@
-<!--
-  KUNAL AHIRE - GITHUB PROFILE README
-  Setup: create a PUBLIC repo named exactly like your GitHub username and put this file in it as README.md
-  Then search & replace: YOUR_GITHUB_USERNAME, YOUR_LINKEDIN_URL, YOUR_INSTAGRAM_URL, YOUR_EMAIL
-  Replace every [X] / [add link] with real numbers/links. Delete anything that isn't true for you.
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E53945,100:1a1a2e&height=190&section=header&text=Kunal%20Ahire&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%C2%B7%20Generative%20AI%20Developer&descAlignY=60&descSize=20" alt="Kunal Ahire banner" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:E53945,100:0d1117&height=240&section=header&text=Kunal%20Ahire&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Gen%20AI%20%2F%20LLM%20Engineer%20%C2%B7%20Full%20Stack%20Developer&descAlignY=60&descSize=20">
+  <img alt="Kunal Ahire" src="https://capsule-render.vercel.app/api?type=venom&color=0:E53945,100:ffd6da&height=240&section=header&text=Kunal%20Ahire&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Gen%20AI%20%2F%20LLM%20Engineer%20%C2%B7%20Full%20Stack%20Developer&descAlignY=60&descSize=20">
+</picture>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=E53945&center=true&vCenter=true&width=640&lines=I+build+AI-powered+web+apps;Full-Stack+%7C+LLMs+%7C+Real-time+systems;Computer+Engineering+student+%40+PVGCOEN;Open+to+internships+%26+collaborations" alt="Typing SVG" />
-
-<br/>
-
-<a href="https://kunal-ahire.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-E53945?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="YOUR_INSTAGRAM_URL"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://kunal-ahire.netlify.app/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=E53945&center=true&vCenter=true&width=720&height=45&lines=Gen+AI+%2F+LLM+Engineer;Building+LLM+features+from+prototype+to+product;React+%7C+Next.js+%7C+Node.js+%7C+Supabase;Seeking+a+Gen+AI+%2F+LLM+Engineer+role+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=E53945&style=flat-square" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat-square&color=E53945&label=Followers" alt="Followers" />
+<a href="https://kunal-ahire.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-E53945?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+<a href="https://linkedin.com/in/kunal-ahire-95529a230"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:kunalahire590@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=developerskull&label=PROFILE%20VIEWS&color=E53945&style=for-the-badge" alt="views"/>
+<img src="https://img.shields.io/github/followers/developerskull?style=for-the-badge&color=E53945&label=FOLLOWERS" alt="followers"/>
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+## ⚡ TL;DR (for recruiters)
 
-I'm a **Computer Engineering student at PVGCOEN, Nashik** who turns ideas into working products, from real-time collaborative tools to LLM-powered apps. I like the full loop: designing the UI, wiring the backend, and shipping it live.
+| | |
+|---|---|
+| 🎓 **Education** | B.E. Computer Engineering, PVGCOEN Nashik (SPPU) · 2023–2027 · CGPA 7.59 |
+| 💼 **Experience** | Gen AI LLM Engineer @ CodeFeast · Software Design & Dev Intern @ Seema Technologies · Freelance Web Developer (10+ sites) |
+| 🧰 **Strongest at** | Python · LLMs · Prompt Engineering · React · Next.js · Node.js · TypeScript · Supabase |
+| 🚀 **Built** | Code-PVG, a coding platform for **500+ students** · Codexia, a real-time collaborative code editor |
+| 🏆 **Leadership** | ML Campus Lead · Tech Head, SkillUp Club (mentoring **50+ students**) · Tech Head, Team Night Fury |
+| 📬 **Status** | 🟢 **Open to Gen AI / LLM Engineer opportunities** |
 
-```text
-👨‍💻 whoami        → Kunal Ahire
-🎓 studying       → B.E. Computer Engineering (PVGCOEN)
-🔭 working on     → Generative AI apps, LLM integrations, full-stack products
-🌱 learning       → [e.g. RAG, agents, system design, DSA]
-🤝 collaborate on → AI tools, web apps, open-source, hackathons
-💬 ask me about   → Next.js, React, Supabase, Socket.IO, prompt engineering
-⚡ fun fact       → [add something memorable: karting champion + coder 🏎️]
+<br/>
+
+## 🧑‍💻 About Me
+
+I'm a Gen AI / LLM Engineer and full-stack developer who can take an LLM feature from **prototype to a working application** with a frontend, backend and database. I've built Generative AI solutions in Python using prompt engineering and Tau-Bench, and shipped full-stack products used by hundreds of students.
+
+```ts
+const kunal = {
+  role:       "Gen AI / LLM Engineer · Full Stack Developer",
+  education:  "B.E. Computer Engineering, PVGCOEN (2023–2027)",
+  genAI:      ["LLMs", "Prompt Engineering", "Tau-Bench", "Generative AI solutions"],
+  fullStack:  ["React", "Next.js", "Node.js", "Express", "TypeScript", "Supabase"],
+  strongIn:   ["DSA", "OOP", "SQL", "REST APIs"],
+  leading:    ["ML Campus Lead", "SkillUp Club Tech Head", "Team Night Fury Tech Head"],
+  lookingFor: "a Gen AI / LLM Engineer opportunity",
+};
 ```
 
-> 📌 **Currently open to:** internships · full-time roles · hackathons · collaborations
+<br/>
 
----
+## 💼 Experience
 
-## 💼 Experience & Leadership
+| Role | Where | What I did |
+|---|---|---|
+| 🤖 **Gen AI LLM Engineer** · 4 months | CodeFeast | Developed Generative AI solutions with LLMs for intelligent applications · applied prompt engineering and Tau-Bench while building LLM-powered features · *Python* |
+| 💻 **Software Design & Development Intern** · 1.5 months | Seema Technologies | Built responsive UIs with React.js and Bootstrap, designed in Figma |
+| 🌐 **Freelance Web Developer** | Self-employed | Delivered **10+ responsive websites** for local businesses, covering requirements gathering through deployment |
+
+## 🧭 Leadership
+
+| Role | What I do |
+|---|---|
+| 🧠 **ML Campus Lead** | Run machine learning workshops and study groups to promote AI/ML education |
+| 👨‍💻 **Tech Head, SkillUp Club (PVGCOEN)** | Organise coding workshops and mentor **50+ students** in web development and programming |
+| 🏎️ **Tech Head, Team Night Fury (Go-Kart)** · *Jul 2026 – Present* | Lead the technical team across engineering, sensor integration and documentation · *IoT, Arduino, embedded systems, CAD* |
+| 🏅 **Sports Secretary, PVGCOEN** | Elected to organise college-level sports events and inter-departmental competitions |
+
+<br/>
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 CodeFeast
-**Generative AI Developer Intern** · *[Month Year – Month Year]*
+### 🧠 Code-PVG
+**Competitive coding platform** · *2025–2026*
 
-- Built [what you built] using LLM APIs, reducing [metric] by **[X%]**.
-- Designed prompts and pipelines for [use case].
-- Shipped [feature] used by [X users / teams].
+Built for **500+ students**: problem sets, code submissions and a ranking system. Includes user authentication, a secure code execution engine and a real-time leaderboard.
 
-</td>
-<td width="50%" valign="top">
-
-### 💻 Seema Technologies
-**Software Development Intern** · *[Month Year – Month Year]*
-
-- Developed [module/feature] with [tech stack].
-- Fixed/improved [X] issues, improving [performance/UX] by **[X%]**.
-- Worked in a team of [X] using Git, code reviews and agile practices.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧑‍💻 Skill-Up Club
-**Tech Head**
-
-- Lead a team of **[X] members** running technical initiatives.
-- Organised **[X] workshops / coding contests** with **[X]+ participants**.
-- Mentor juniors in web development and DSA.
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### 🏆 Student Council, PVGCOEN
-**Sports Secretary**
+### 🧩 Codexia
+**Real-time collaborative code editor** · *2026*
 
-- Planned and ran **[X] sports events** for **[X]+ students**.
-- Coordinated teams, schedules, budgets and volunteers.
+Instant synchronisation across clients with Socket.io and WebSockets, plus syntax highlighting and an integrated terminal view.
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio)
+![Express](https://img.shields.io/badge/Express-404040?style=flat-square&logo=express)
 
 </td>
 </tr>
 </table>
 
-> 💡 Recruiters skim. Numbers (users, % improvement, participants) are what make these bullets stand out, so fill in the `[X]` placeholders.
-
----
-
-## 🛠️ Tech Stack
-
-**Core (what I use most)**
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,python,supabase,postgres,git,docker&perline=12" alt="Core stack" />
-</p>
-
 <details>
-<summary><b>📚 Full toolbox</b> (click to expand)</summary>
-
+<summary><b>📦 More projects</b></summary>
 <br/>
 
-| Area | Technologies |
-|---|---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=cpp,c,java,js,ts,python,php,dart"/> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,angular"/> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,php,dotnet"/> |
-| **Databases & Cloud** | <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase,netlify,vercel"/> |
-| **AI / Data** | <img src="https://skillicons.dev/icons?i=python,numpy,pandas"/> &nbsp; LLM APIs · Prompt Engineering · MLflow |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,docker,canva"/> |
-| **Also familiar with** | Socket.IO · React Native · Windi CSS |
+- 🍽️ **Smart Canteen**: online pre-ordering with token-based queue management (React, Supabase)
+- 💱 **Currency Converter**: real-time currency conversion (React, TypeScript)
+- 🏟️ **Turf Management**: turf booking and management system (PHP, MySQL)
 
 </details>
 
----
+<details>
+<summary><b>🔍 How Codexia works (simplified)</b></summary>
 
-## 🚀 Featured Projects
+```mermaid
+flowchart LR
+  A[User A browser] <-->|WebSocket| S((Socket.io server))
+  B[User B browser] <-->|WebSocket| S
+  A -. edits .-> S
+  S -. broadcasts changes .-> B
+```
 
-| Project | What it does | Stack | Links |
-|---|---|---|---|
-| **Codexia** | Real-time collaborative code editor: multiple users edit and see changes live | Next.js · Socket.IO | [Live](add-link) · [Code](add-link) |
-| **Smart Canteen** | Online pre-ordering with token-based queue management to cut waiting time | React · Supabase | [Live](add-link) · [Code](add-link) |
-| **Code-PVG** | Online coding platform for practice and contests at college | React · Supabase | [Live](add-link) · [Code](add-link) |
-| **Currency Converter** | Live exchange-rate conversion with a clean, responsive UI | React · TypeScript | [Live](add-link) · [Code](add-link) |
-| **Turf Management** | Turf slot booking and admin management system | PHP · MySQL | [Live](add-link) · [Code](add-link) |
+</details>
 
-📂 More work on my **[Portfolio](https://kunal-ahire.netlify.app/)**.
+📂 More on my **[Portfolio](https://kunal-ahire.netlify.app/)**.
 
-<!-- Optional: pin repos dynamically (replace repo names)
-<a href="https://github.com/YOUR_GITHUB_USERNAME/Codexia"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=Codexia&theme=tokyonight&hide_border=true" /></a>
--->
+<br/>
 
----
+## 🛠️ Tech Arsenal
 
-## 🏆 Achievements & Leadership
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,js,ts,java,cpp,react,nextjs,nodejs,express,tailwind,postgres,mysql,supabase,firebase,git,figma&theme=light&perline=16">
+  <img alt="Tech stack" src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,react,nextjs,nodejs,express,tailwind,postgres,mysql,supabase,firebase,git,figma&theme=dark&perline=16">
+</picture>
+
+</div>
+
+| Area | Technologies |
+|---|---|
+| **Generative AI & ML** | Large Language Models (LLMs) · Generative AI · Prompt Engineering · Tau-Bench · Machine Learning |
+| **Languages** | Python · JavaScript · TypeScript · Java · C++ · SQL · HTML5 · CSS3 |
+| **Backend** | Node.js · Express.js · RESTful APIs · Socket.io · WebSockets · Authentication |
+| **Frontend** | React.js · Next.js · Tailwind CSS · Bootstrap · Responsive Design |
+| **Databases** | PostgreSQL · MySQL · Supabase · Firebase |
+| **Tools** | Git · GitHub · Vercel · Netlify · npm · Figma |
+| **Core concepts** | Data Structures & Algorithms · OOP · Database Management · Debugging · Problem Solving |
+
+<br/>
+
+## 🏆 Achievements
 
 | | Achievement |
 |---|---|
-| 🏁 | **AIR 3**, FMAE Dirt Kart Design Challenge |
+| 🥉 | **AIR 3**, FMAE Dirt Kart Design Challenge |
 | 🏎️ | **AIR 11**, Hindustan Formula Karting Championship |
 | 🏅 | **Best Placement Ready Team**, Culling Games |
-| 🧠 | **ML Lead**, PVGCOEN |
-| 👨‍💻 | **Tech Head**, Skill-Up Club |
-| 🏆 | **Sports Secretary**, Student Council |
 
----
-
-## 📊 GitHub Stats
+<br/>
 
 ## 📊 GitHub Activity
 
@@ -170,28 +177,34 @@ I'm a **Computer Engineering student at PVGCOEN, Nashik** who turns ideas into w
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/developerskull/developerskull/output/github-snake.svg" width="95%">
 </picture>
 
-
 </div>
 
----
+<br/>
+
+## 🎓 Education
+
+| | |
+|---|---|
+| **B.E. Computer Engineering** | Pune Vidyarthi Griha's College of Engineering, Nashik (SPPU) · 2023–2027 · CGPA 7.59 |
+| **HSC (Science)** | K.A.A.N.M.M.S, Satana · 2023 · 63.43% |
+| **SSC** | Kilbil English Medium School, Satana · 2021 · 82.63% |
+
+<br/>
 
 ## 🤝 Let's Connect
 
-I'm happy to chat about **AI products, full-stack projects, internships or collaborations**. The fastest way to reach me is email or LinkedIn.
+Looking for a **Gen AI / LLM Engineer** who can also ship the full-stack app around the model? Let's talk.
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://kunal-ahire.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-E53945?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-<a href="YOUR_INSTAGRAM_URL"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:kunalahire590@gmail.com"><img src="https://img.shields.io/badge/Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/kunal-ahire-95529a230"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://kunal-ahire.netlify.app/"><img src="https://img.shields.io/badge/View%20Portfolio-E53945?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 
 <br/><br/>
 
-### 💡 *"Building intelligent solutions, one line of code at a time."*
+*"Building intelligent solutions, one line of code at a time."*
 
-⭐ Thanks for stopping by. If something here caught your eye, drop a star on a repo!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:E53945&height=100&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:E53945&height=110&section=footer" alt="footer"/>
 
 </div>
