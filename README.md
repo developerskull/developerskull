@@ -169,7 +169,7 @@ I'm a **Computer Engineering student at PVGCOEN, Nashik** who turns ideas into w
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/developerskull/developerskull/output/github-snake-dark.svg">
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/developerskull/developerskull/output/github-snake.svg" width="95%">
 </picture>
-<img src="./github-metrics.svg" alt="GitHub metrics" width="95%">
+
 
 </div>
 
