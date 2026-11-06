@@ -1,10 +1,196 @@
-# 💫 About Me:
-<br><br>🚀 Full-Stack Generative AI Developer<br>Building intelligent AI-powered applications with modern full-stack technologies and Generative AI solutions.<br><br>💼 Intern at CodeFeast<br><br>Worked on real-world development projects, gaining hands-on experience in software engineering and problem-solving.<br><br>💻 Intern at Seema Technologies<br><br>Contributed to innovative tech solutions while enhancing technical and collaborative skills.<br><br>👨‍💻 Tech Head — Skill Up Club<br>Leading technical initiatives, mentoring peers, and organizing coding & development activities.<br><br>🏆 Sports Secretary — Student Council, PVGCOEN Nashik<br>Managed sports events, coordinated teams, and promoted student participation in athletics and extracurricular activities.
+<!--
+  KUNAL AHIRE - GITHUB PROFILE README
+  Setup: create a PUBLIC repo named exactly like your GitHub username and put this file in it as README.md
+  Then search & replace: YOUR_GITHUB_USERNAME, YOUR_LINKEDIN_URL, YOUR_INSTAGRAM_URL, YOUR_EMAIL
+  Replace every [X] / [add link] with real numbers/links. Delete anything that isn't true for you.
+-->
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kunalahire_9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kunal-ahire-9592aa300?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kunalahire590@gmail.com) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E53945,100:1a1a2e&height=190&section=header&text=Kunal%20Ahire&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%C2%B7%20Generative%20AI%20Developer&descAlignY=60&descSize=20" alt="Kunal Ahire banner" />
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Windicss](https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=E53945&center=true&vCenter=true&width=640&lines=I+build+AI-powered+web+apps;Full-Stack+%7C+LLMs+%7C+Real-time+systems;Computer+Engineering+student+%40+PVGCOEN;Open+to+internships+%26+collaborations" alt="Typing SVG" />
 
+<br/>
+
+<a href="https://kunal-ahire.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-E53945?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="YOUR_INSTAGRAM_URL"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=E53945&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat-square&color=E53945&label=Followers" alt="Followers" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Computer Engineering student at PVGCOEN, Nashik** who turns ideas into working products, from real-time collaborative tools to LLM-powered apps. I like the full loop: designing the UI, wiring the backend, and shipping it live.
+
+```text
+👨‍💻 whoami        → Kunal Ahire
+🎓 studying       → B.E. Computer Engineering (PVGCOEN)
+🔭 working on     → Generative AI apps, LLM integrations, full-stack products
+🌱 learning       → [e.g. RAG, agents, system design, DSA]
+🤝 collaborate on → AI tools, web apps, open-source, hackathons
+💬 ask me about   → Next.js, React, Supabase, Socket.IO, prompt engineering
+⚡ fun fact       → [add something memorable: karting champion + coder 🏎️]
+```
+
+> 📌 **Currently open to:** internships · full-time roles · hackathons · collaborations
+
+---
+
+## 💼 Experience & Leadership
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 CodeFeast
+**Generative AI Developer Intern** · *[Month Year – Month Year]*
+
+- Built [what you built] using LLM APIs, reducing [metric] by **[X%]**.
+- Designed prompts and pipelines for [use case].
+- Shipped [feature] used by [X users / teams].
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 Seema Technologies
+**Software Development Intern** · *[Month Year – Month Year]*
+
+- Developed [module/feature] with [tech stack].
+- Fixed/improved [X] issues, improving [performance/UX] by **[X%]**.
+- Worked in a team of [X] using Git, code reviews and agile practices.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧑‍💻 Skill-Up Club
+**Tech Head**
+
+- Lead a team of **[X] members** running technical initiatives.
+- Organised **[X] workshops / coding contests** with **[X]+ participants**.
+- Mentor juniors in web development and DSA.
+
+</td>
+<td width="50%" valign="top">
+
+### 🏆 Student Council, PVGCOEN
+**Sports Secretary**
+
+- Planned and ran **[X] sports events** for **[X]+ students**.
+- Coordinated teams, schedules, budgets and volunteers.
+
+</td>
+</tr>
+</table>
+
+> 💡 Recruiters skim. Numbers (users, % improvement, participants) are what make these bullets stand out, so fill in the `[X]` placeholders.
+
+---
+
+## 🛠️ Tech Stack
+
+**Core (what I use most)**
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,python,supabase,postgres,git,docker&perline=12" alt="Core stack" />
+</p>
+
+<details>
+<summary><b>📚 Full toolbox</b> (click to expand)</summary>
+
+<br/>
+
+| Area | Technologies |
+|---|---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=cpp,c,java,js,ts,python,php,dart"/> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,angular"/> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,php,dotnet"/> |
+| **Databases & Cloud** | <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase,netlify,vercel"/> |
+| **AI / Data** | <img src="https://skillicons.dev/icons?i=python,numpy,pandas"/> &nbsp; LLM APIs · Prompt Engineering · MLflow |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,docker,canva"/> |
+| **Also familiar with** | Socket.IO · React Native · Windi CSS |
+
+</details>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | What it does | Stack | Links |
+|---|---|---|---|
+| **Codexia** | Real-time collaborative code editor: multiple users edit and see changes live | Next.js · Socket.IO | [Live](add-link) · [Code](add-link) |
+| **Smart Canteen** | Online pre-ordering with token-based queue management to cut waiting time | React · Supabase | [Live](add-link) · [Code](add-link) |
+| **Code-PVG** | Online coding platform for practice and contests at college | React · Supabase | [Live](add-link) · [Code](add-link) |
+| **Currency Converter** | Live exchange-rate conversion with a clean, responsive UI | React · TypeScript | [Live](add-link) · [Code](add-link) |
+| **Turf Management** | Turf slot booking and admin management system | PHP · MySQL | [Live](add-link) · [Code](add-link) |
+
+📂 More work on my **[Portfolio](https://kunal-ahire.netlify.app/)**.
+
+<!-- Optional: pin repos dynamically (replace repo names)
+<a href="https://github.com/YOUR_GITHUB_USERNAME/Codexia"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=Codexia&theme=tokyonight&hide_border=true" /></a>
+-->
+
+---
+
+## 🏆 Achievements & Leadership
+
+| | Achievement |
+|---|---|
+| 🏁 | **AIR 3**, FMAE Dirt Kart Design Challenge |
+| 🏎️ | **AIR 11**, Hindustan Formula Karting Championship |
+| 🏅 | **Best Placement Ready Team**, Culling Games |
+| 🧠 | **ML Lead**, PVGCOEN |
+| 👨‍💻 | **Tech Head**, Skill-Up Club |
+| 🏆 | **Sports Secretary**, Student Council |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm happy to chat about **AI products, full-stack projects, internships or collaborations**. The fastest way to reach me is email or LinkedIn.
+
+<div align="center">
+
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://kunal-ahire.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-E53945?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+<a href="YOUR_INSTAGRAM_URL"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
+<br/><br/>
+
+### 💡 *"Building intelligent solutions, one line of code at a time."*
+
+⭐ Thanks for stopping by. If something here caught your eye, drop a star on a repo!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:E53945&height=100&section=footer" alt="footer" />
+
+</div>
