@@ -1,46 +1,39 @@
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:E53945,100:0d1117&height=240&section=header&text=Kunal%20Ahire&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Gen%20AI%20%2F%20LLM%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=20"
-  />
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:E53945,100:0d1117&height=240&section=header&text=Kunal%20Ahire&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Gen%20AI%20%2F%20LLM%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=20"
-    width="100%"
-    alt="Kunal Ahire Portfolio Header"
-  />
-</picture>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:E53945,100:0D1117&height=250&section=header&text=Kunal%20Ahire&fontSize=70&fontColor=FFFFFF&fontAlignY=38&desc=Gen%20AI%20%2F%20LLM%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=20&animation=fadeIn"
+  width="100%"
+  alt="Kunal Ahire Header"
+/>
 
 <br/>
 
-<a href="https://readme-typing-svg.herokuapp.com">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=E53945&center=true&vCenter=true&width=720&height=55&lines=Gen+AI+%2F+LLM+Engineer;Building+LLM+Features+From+Prototype+To+Product;React+%7C+Next.js+%7C+Node.js+%7C+Supabase;Full+Stack+Developer"
-    alt="Typing SVG"
-  />
-</a>
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=E53945&center=true&vCenter=true&width=720&height=55&lines=Gen+AI+%2F+LLM+Engineer;Building+LLM+Features+From+Prototype+To+Product;React+%7C+Next.js+%7C+Node.js+%7C+Supabase"
+  alt="Typing Animation"
+/>
 
 <br/><br/>
 
 <a href="https://kunal-ahire.netlify.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-E53945?style=for-the-badge&logo=firefox&logoColor=white" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-E53945?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
+
 <a href="https://linkedin.com/in/kunal-ahire-95529a230">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:kunalahire590@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=developerskull&label=PROFILE%20VIEWS&color=E53945&style=for-the-badge" alt="Profile Views" />
-
-<img src="https://img.shields.io/github/followers/developerskull?style=for-the-badge&color=E53945&label=FOLLOWERS" alt="GitHub Followers" />
+<img src="https://komarev.com/ghpvc/?username=developerskull&label=PROFILE%20VIEWS&color=E53945&style=for-the-badge"/>
 
 </div>
+
 
 
 <br/>
