@@ -180,20 +180,7 @@ flowchart LR
 
 <br/>
 
-## 📊 GitHub Activity
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=developerskull&theme=tokyonight&hide_border=true" alt="Streak" />
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/developerskull/developerskull/output/github-snake-dark.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/developerskull/developerskull/output/github-snake.svg" width="95%">
-</picture>
-
-</div>
 
 <br/>
 
