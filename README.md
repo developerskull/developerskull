@@ -106,7 +106,7 @@ Built for **500+ students**: problem sets, code submissions and a ranking system
 </td>
 <td width="50%" valign="top">
 
-### 🧩 Codexia
+### 🧩 Codexiaa
 **Real-time collaborative code editor** · *2026*
 
 Instant synchronisation across clients with Socket.io and WebSockets, plus syntax highlighting and an integrated terminal view.
