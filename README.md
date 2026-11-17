@@ -16,24 +16,22 @@
 <br/><br/>
 
 <a href="https://kunal-ahire.netlify.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-E53945?style=for-the-badge&logo=firefox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-E53945?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
 </a>
 
 <a href="https://linkedin.com/in/kunal-ahire-95529a230">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:kunalahire590@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=developerskull&label=PROFILE%20VIEWS&color=E53945&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=developerskull&label=PROFILE%20VIEWS&color=E53945&style=for-the-badge" alt="Profile views"/>
 
 </div>
-
-
 
 <br/>
 
@@ -46,7 +44,8 @@
 | 💼 **Experience** | Gen AI LLM Engineer @ CodeFeast · Software Design & Dev Intern @ Seema Technologies · Freelance Web Developer (10+ sites) |
 | 🧰 **Strongest at** | Python · LLMs · Prompt Engineering · React · Next.js · Node.js · TypeScript · Supabase |
 | 🚀 **Built** | Code-PVG, a coding platform for **500+ students** · Codexia, a real-time collaborative code editor |
-| 🏆 **Leadership** | ML Campus Lead · Tech Head, SkillUp Club (mentoring **50+ students**) · Tech Head, Team Night Fury |
+| 🏆 **Wins** | **2x Hackathon Winner** · AIR 3 FMAE Dirt Kart Design Challenge · AIR Top 5 Business Presentation, HFKC |
+| 🧭 **Leadership** | ML Campus Lead · Tech Head, SkillUp Club (mentoring **50+ students**) · Tech Head, Team Night Fury |
 | 📬 **Status** | 🟢 **Open to GenAI Full Stack Developer / Gen AI / LLM Engineer opportunities** · **Full-Stack Web Developer** roles |
 
 <br/>
@@ -106,7 +105,7 @@ Built for **500+ students**: problem sets, code submissions and a ranking system
 </td>
 <td width="50%" valign="top">
 
-### 🧩 Codexiaa
+### 🧩 Codexia
 **Real-time collaborative code editor** · *2026*
 
 Instant synchronisation across clients with Socket.io and WebSockets, plus syntax highlighting and an integrated terminal view.
@@ -174,13 +173,11 @@ flowchart LR
 
 | | Achievement |
 |---|---|
+| 🏆 | **2x Hackathon Winner** |
 | 🥉 | **AIR 3**, FMAE Dirt Kart Design Challenge |
-| 🏎️ | **AIR 11**, Hindustan Formula Karting Championship |
+| 🏎️ | **AIR 11**, Hindustan Formula Karting Championship (HFKC) |
+| 📊 | **AIR Top 5**, Business Presentation, HFKC |
 | 🏅 | **Best Placement Ready Team**, Culling Games |
-
-<br/>
-
-
 
 <br/>
 
@@ -200,9 +197,9 @@ Looking for a **GenAI Full Stack Developer** who can build the LLM features and 
 
 <div align="center">
 
-<a href="mailto:kunalahire590@gmail.com"><img src="https://img.shields.io/badge/Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/kunal-ahire-95529a230"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://kunal-ahire.netlify.app/"><img src="https://img.shields.io/badge/View%20Portfolio-E53945?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+<a href="mailto:kunalahire590@gmail.com"><img src="https://img.shields.io/badge/Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/></a>
+<a href="https://linkedin.com/in/kunal-ahire-95529a230"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+<a href="https://kunal-ahire.netlify.app/"><img src="https://img.shields.io/badge/View%20Portfolio-E53945?style=for-the-badge&logo=firefox&logoColor=white" alt="View Portfolio"/></a>
 
 <br/><br/>
 
