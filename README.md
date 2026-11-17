@@ -1,8 +1,7 @@
-
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:E53945,100:0D1117&height=250&section=header&text=Kunal%20Ahire&fontSize=70&fontColor=FFFFFF&fontAlignY=38&desc=Gen%20AI%20%2F%20LLM%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=20&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:E53945,100:0D1117&height=250&section=header&text=Kunal%20Ahire&fontSize=70&fontColor=FFFFFF&fontAlignY=38&desc=GenAI%20Full%20Stack%20Developer%20%7C%20Gen%20AI%20%2F%20LLM%20Engineer&descAlignY=60&descSize=20&animation=fadeIn"
   width="100%"
   alt="Kunal Ahire Header"
 />
@@ -10,7 +9,7 @@
 <br/>
 
 <img
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=E53945&center=true&vCenter=true&width=720&height=55&lines=Gen+AI+%2F+LLM+Engineer;Building+LLM+Features+From+Prototype+To+Product;React+%7C+Next.js+%7C+Node.js+%7C+Supabase"
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=E53945&center=true&vCenter=true&width=720&height=55&lines=GenAI+Full+Stack+Developer;Gen+AI+%2F+LLM+Engineer;Building+LLM+Features+From+Prototype+To+Product;React+%7C+Next.js+%7C+Node.js+%7C+Supabase"
   alt="Typing Animation"
 />
 
@@ -42,28 +41,29 @@
 
 | | |
 |---|---|
+| 🎯 **Role** | **GenAI Full Stack Developer** |
 | 🎓 **Education** | B.E. Computer Engineering, PVGCOEN Nashik (SPPU) · 2023–2027 · CGPA 7.59 |
 | 💼 **Experience** | Gen AI LLM Engineer @ CodeFeast · Software Design & Dev Intern @ Seema Technologies · Freelance Web Developer (10+ sites) |
 | 🧰 **Strongest at** | Python · LLMs · Prompt Engineering · React · Next.js · Node.js · TypeScript · Supabase |
 | 🚀 **Built** | Code-PVG, a coding platform for **500+ students** · Codexia, a real-time collaborative code editor |
 | 🏆 **Leadership** | ML Campus Lead · Tech Head, SkillUp Club (mentoring **50+ students**) · Tech Head, Team Night Fury |
-| 📬 **Status** | 🟢 **Open to Gen AI / LLM Engineer opportunities** | ** Full-Stack Web Developer **
+| 📬 **Status** | 🟢 **Open to GenAI Full Stack Developer / Gen AI / LLM Engineer opportunities** · **Full-Stack Web Developer** roles |
 
 <br/>
 
 ## 🧑‍💻 About Me
 
-I'm a Gen AI / LLM Engineer and full-stack developer who can take an LLM feature from **prototype to a working application** with a frontend, backend and database. I've built Generative AI solutions in Python using prompt engineering and Tau-Bench, and shipped full-stack products used by hundreds of students.
+I'm a GenAI Full Stack Developer: a Gen AI / LLM engineer who can take an LLM feature from **prototype to a working application** with a frontend, backend and database. I've built Generative AI solutions in Python using prompt engineering and Tau-Bench, and shipped full-stack products used by hundreds of students.
 
 ```ts
 const kunal = {
-  role:       "Gen AI / LLM Engineer · Full Stack Developer",
+  role:       "GenAI Full Stack Developer · Gen AI / LLM Engineer",
   education:  "B.E. Computer Engineering, PVGCOEN (2023–2027)",
   genAI:      ["LLMs", "Prompt Engineering", "Tau-Bench", "Generative AI solutions"],
   fullStack:  ["React", "Next.js", "Node.js", "Express", "TypeScript", "Supabase"],
   strongIn:   ["DSA", "OOP", "SQL", "REST APIs"],
   leading:    ["ML Campus Lead", "SkillUp Club Tech Head", "Team Night Fury Tech Head"],
-  lookingFor: "a Gen AI / LLM Engineer opportunity",
+  lookingFor: "a GenAI Full Stack Developer / Gen AI / LLM Engineer opportunity",
 };
 ```
 
@@ -196,7 +196,7 @@ flowchart LR
 
 ## 🤝 Let's Connect
 
-Looking for a **Gen AI / LLM Engineer** who can also ship the full-stack app around the model? Let's talk.
+Looking for a **GenAI Full Stack Developer** who can build the LLM features and ship the full-stack app around them? Let's talk.
 
 <div align="center">
 
