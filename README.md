@@ -174,9 +174,10 @@ flowchart LR
 | | Achievement |
 |---|---|
 | 🏆 | **2x Hackathon Winner** |
+| 📊 | **AIR Top 5**, Business Presentation, HFKC |
 | 🥉 | **AIR 3**, FMAE Dirt Kart Design Challenge |
 | 🏎️ | **AIR 11**, Hindustan Formula Karting Championship (HFKC) |
-| 📊 | **AIR Top 5**, Business Presentation, HFKC |
+
 | 🏅 | **Best Placement Ready Team**, Culling Games |
 
 <br/>
