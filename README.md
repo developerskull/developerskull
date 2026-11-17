@@ -47,7 +47,7 @@
 | 🧰 **Strongest at** | Python · LLMs · Prompt Engineering · React · Next.js · Node.js · TypeScript · Supabase |
 | 🚀 **Built** | Code-PVG, a coding platform for **500+ students** · Codexia, a real-time collaborative code editor |
 | 🏆 **Leadership** | ML Campus Lead · Tech Head, SkillUp Club (mentoring **50+ students**) · Tech Head, Team Night Fury |
-| 📬 **Status** | 🟢 **Open to Gen AI / LLM Engineer opportunities** |
+| 📬 **Status** | 🟢 **Open to Gen AI / LLM Engineer opportunities** | Full-Stack Web Developer
 
 <br/>
 
